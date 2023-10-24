@@ -1,6 +1,9 @@
 # 💫 About Me:
 📚 Studying B.Tech Computer Science<br>📲 Technophile<br>🤖 Working on Artificial Intelligence<br>🕸️ Learning Full-Stack Dev
-##Checkout my website [my website](http://srikanthreddy.dev)
+
+
+
+## Checkout my website [my website](http://srikanthreddy.dev)
 
 
 
