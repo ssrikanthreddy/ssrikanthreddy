@@ -3,7 +3,7 @@
 
 
 
-## Checkout my website [my website](http://srikanthreddy.dev)
+## Checkout [My Website](http://srikanthreddy.dev)
 
 
 
