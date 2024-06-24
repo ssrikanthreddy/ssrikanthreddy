@@ -3,7 +3,7 @@
 
 
 ## 🌐 My Links:
-[![Portfolio Site](https://img.shields.io/badge/just%20the%20message-8A2BE2)](https://www.srikanthreddy.dev/) 
+[![Portfolio Site](https://img.shields.io/badge/Portfolio%20Site-8A2BE2)](https://www.srikanthreddy.dev/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ssrikanthreddy) 
 
 
