@@ -2,7 +2,7 @@
 🤖 AI Engineer<br>🌐 Full stack developer<br>🔭 I'm currently working on interactive AI Systems<br>👯 I'm looking to collaborate with anyone looking to improve usability of tech<br># 15+ Projects and worked in 6+ Companies
 
 
-## 🌐 Checkout my portfolio: https://www.srikanthreddy.dev/
+<b>🌐 Checkout my portfolio: https://www.srikanthreddy.dev/</b>
 
 ## 💻 What I do
 
