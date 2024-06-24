@@ -12,7 +12,7 @@
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,ts,react,redux,tailwind,astro,next)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,ts,react,tailwind,next)](https://skillicons.dev)
 
 ### Backend
 
