@@ -6,6 +6,10 @@
 
 ## 💻 Languages and Tools
 
+### AI/ML
+
+[![AI/ML](https://skillicons.dev/icons?i=py,pytorch,pycharm,tensorflow,sklearn)](https://skillicons.dev)
+
 ### Frontend
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,ts,react,redux,tailwind,astro,next)](https://skillicons.dev)
