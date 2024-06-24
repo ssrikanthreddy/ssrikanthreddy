@@ -4,7 +4,7 @@
 
 ## 🌐 Checkout my portfolio: https://www.srikanthreddy.dev/
 
-## Other Links
+## 🕸️ Other Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ssrikanthreddy) 
 
 
